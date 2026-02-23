@@ -31,7 +31,7 @@ COMMON += (
             4: "Micro-inverter",
             5: "Low-voltage three-phase hybrid",  # Three-Phase Low-Voltage Energy Storage Unit
             6: "High-voltage three-phase hybrid",  # Three-Phase High-Voltage Energy Storage Unit
-            0x200: "Single-phase LV hybrid (3x MTTP)",
+            0x200: "Single-phase LV hybrid (3x MPPT)",
             0x103: "Single-phase hybrid",  # SUN-6K-OG01LP1-EU-AM2
             0x601: "High-voltage three-phase hybrid 6-15kW",
             0x602: "High-voltage three-phase hybrid 20-50kW",
